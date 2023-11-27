@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './components/Header';
+import Header from './components/generics/Header/index';
 import SolarSystem from './components/SolarSystem';
 import Missions from './components/Missions';
 import './App.css';
@@ -7,8 +7,10 @@ import './App.css';
 const App = () => (
   <>
     <Header />
-    <SolarSystem />
-    <Missions />
+    <main>
+      <SolarSystem />
+      <Missions />
+    </main>
   </>
 );
 

@@ -1,0 +1,5 @@
+.planets {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 1.25rem 6.25rem 0;
+}

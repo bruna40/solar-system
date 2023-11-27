@@ -1,9 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import './style.css';
 
 const Title = (props) => {
   const { headline } = props;
-  return <h2>{headline}</h2>;
+  return <h2 className="title__container">{headline}</h2>;
 };
 
 Title.propTypes = {

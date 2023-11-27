@@ -1,6 +1,6 @@
 import React from 'react';
 import MissionCard from './MissionCard';
-import Title from './Title';
+import Title from './generics/Title/index';
 import missions from '../data/missions';
 
 const Missions = () => (

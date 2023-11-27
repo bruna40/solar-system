@@ -1,5 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body {
   text-align: center;
   background-image: url('./images/background.png');
   color: white;
+  font-family: Epilogue, sans-serif;
 }

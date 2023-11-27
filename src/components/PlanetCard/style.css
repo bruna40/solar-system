@@ -1,0 +1,15 @@
+
+.planet__card {
+    align-items: center;
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.planet__card-img {
+    width: 100%;
+}
+
+.planet__card-text {
+    font-weight: 300;
+}
