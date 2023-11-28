@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './components/generics/Header/index';
 import SolarSystem from './components/SolarSystem';
-import Missions from './components/Missions';
+import Missions from './components/Missions/index';
 import './App.css';
 
 const App = () => (

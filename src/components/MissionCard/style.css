@@ -1,0 +1,19 @@
+.mission__container-card {
+    border: 1px solid #fff;
+    border-radius: 20px;
+    margin: 20px 30px;
+    padding: 20px;
+    width: 25%; 
+}
+hr {
+    margin: 1.25rem 0 1.875rem 0;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+.mission__container-card h4 {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
